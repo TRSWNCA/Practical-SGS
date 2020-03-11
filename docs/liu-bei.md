@@ -1,6 +1,6 @@
 <div align='center'>
 
-<img src="http://gl.sanguosha.com/uploads/4/583cdebddd030.png" />
+<img src="http://gl.sanguosha.com/uploads/4/583cdebddd030.png" height="300"/>
 
 <p>自古英雄草根来，编席何须自伤哀。</p>
 
